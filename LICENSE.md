@@ -1,32 +1,22 @@
+MIT License
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Copyright (c) 2022 Mateus A. Kreuch
+Copyright (c) 2026 Simon L. (OGCRAFTNET STUDIOS)
 
-TrueLightFX Shader – License Agreement
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-This Shader is Licensed as ARR
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-Copyright © OGCRAFTNET STUDIOS, 2023-2025
-
-This shader (TrueLightFX) is the intellectual property of OGCRAFTNET STUDIOS. By downloading, installing, or using this shader, you agree to the following terms:
-
-    Personal Use Only
-    This shader is licensed for personal, non-commercial use only. You may use it in your own Minecraft installation and personal videos or screenshots.
-
-    Redistribution
-    Redistribution of TrueLightFX, in original or modified form, is not allowed without explicit permission from the creator. This includes uploading the shader to other websites or file hosts.
-
-    Modification
-    You may modify the shader files for personal use. However, you may not distribute or share modified versions publicly.
-
-    Commercial Use
-    Use of TrueLightFX in commercial projects (e.g., monetized servers, YouTube videos, or modpacks) requires prior written permission from the creator.
-
-    Credit
-    If used in videos, screenshots, or public projects, crediting the shader as “TrueLightFX Shader by OGCRAFTNET STUDIOS” is appreciated.
-
-    Liability
-    The shader is provided “as is”, without warranty of any kind. The creator is not responsible for any damages, data loss, or performance issues caused by its use.
-
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
